@@ -6,3 +6,7 @@ A  simple javascript Clock.
 [Anishuzzaman][author]
 
 [author]: https://www.facebook.com/anishuzzaman/
+
+## Site link:
+
+https://anisxaman.github.io/project-clock/
